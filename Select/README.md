@@ -1,7 +1,5 @@
 # Got to know
 
-- name, population is also a keyword (Postgres, Oracle)
 - id = 1 , id = '1' are same
-- id != 2 ... means not 2 also not NULL ... real value need
-- area is function (MYSQL)
-- len is function (Oracle)
+- id != 2 ... means not only 2 but also not NULL ... real value need
+- always use single invented comma ( '   ' ) as double inverted comma ( "  " ) doesn't work for most DBMS
